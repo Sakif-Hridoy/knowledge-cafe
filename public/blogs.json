@@ -1,53 +1,52 @@
 [
-    {
-      "ID": "12345",
-      "Cover": "https://i.ibb.co/Hnp6Hg4/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
-      "Title": "Mystery of the Hidden Treasure",
-      "Author": "Jane Doe",
-      "Author_img": "https://i.ibb.co/dcs7QVf/inspired-creative-woman-writing-down-ideas.jpg",
-      "Posted_Date": "2023-04-15",
-      "Reading_Time": 12,
-      "Hashtags": ["#mystery", "#treasurehunt", "#adventure"]
-    },
-    {
-      "ID": "67890",
-      "Cover": "https://i.ibb.co/W0BXVWP/top-view-desk-concept-with-coffee.jpg",
-      "Title": "Sci-Fi Chronicles",
-      "Author": "John Smith",
-      "Author_img": "https://i.ibb.co/drLp5Km/man-working-from-home-remote-office-concept.jpg",
-      "Posted_Date": "2023-03-22",
-      "Reading_Time": 45,
-      "Hashtags": ["#scifi", "#space", "#future"]
-    },
-    {
-      "ID": "13579",
-      "Cover": "https://i.ibb.co/Csd5mPC/4293200.jpg",
-      "Title": "Cooking Delights",
-      "Author": "Emily Brown",
-      "Author_img": "https://i.ibb.co/D1SYKsd/positive-female-student-glasses-doing-homework.jpg",
-      "Posted_Date": "2023-05-10",
-      "Reading_Time": 20,
-      "Hashtags": ["#cooking", "#recipes", "#foodie"]
-    },
-    {
-      "ID": "24680",
-      "Cover": "https://i.ibb.co/BsqKJHS/8828328.jpg",
-      "Title": "Historical Journeys",
-      "Author": "David Johnson",
-      "Author_img": "https://i.ibb.co/84XMTRG/side-view-business-man-writing-agenda.jpg",
-      "Posted_Date": "2023-02-07",
-      "Reading_Time": 18,
-      "Hashtags": ["#history", "#exploration", "#adventure"]
-    },
-    {
-      "ID": "98765",
-      "Cover": "https://i.ibb.co/vzpfrm3/flat-lay-desk-dark-concept-with-copy-space.jpg",
-      "Title": "Fantasy Quest",
-      "Author": "Sarah White",
-      "Author_img": "https://i.ibb.co/GTzqwTh/stylish-woman-reading-book.jpg",
-      "Posted_Date": "2023-06-18",
-      "Reading_Time": "8",
-      "Hashtags": ["#fantasy", "#magic", "#quests"]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/Hnp6Hg4/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+    "title": "Exploring the Mysteries of Quantum Flamingos",
+    "author": "Dr. Lily Featherstone",
+    "author_image": "https://i.ibb.co/dcs7QVf/inspired-creative-woman-writing-down-ideas.jpg",
+    "posted_date": "October 18, 2023",
+    "reading_time": "12 minutes",
+    "hashtags": ["QuantumPhysics", "Flamingos", "Science"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/Csd5mPC/4293200.jpg",
+    "title": "The Epic Quest for the Lost Banana Kingdom",
+    "author": "Captain Aye Aye Ron",
+    "author_image": "https://i.ibb.co/drLp5Km/man-working-from-home-remote-office-concept.jpg",
+    "posted_date": "September 2, 2023",
+    "reading_time": "8 minutes",
+    "hashtags": ["Adventure", "Bananas", "Exploration"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/W0BXVWP/top-view-desk-concept-with-coffee.jpg",
+    "title": "Cooking with Cosmic Ingredients: A Starry Delight",
+    "author": "Chef Stella Nebula",
+    "author_image": "https://i.ibb.co/D1SYKsd/positive-female-student-glasses-doing-homework.jpg",
+    "posted_date": "November 12, 2023",
+    "reading_time": "10 minutes",
+    "hashtags": ["Cooking", "Astronomy", "Food"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/BsqKJHS/8828328.jpg",
+    "title": "Unraveling the Enigma of Quantum Cupcakes",
+    "author": "Professor Sugarbell Quark",
+    "author_image": "https://i.ibb.co/84XMTRG/side-view-business-man-writing-agenda.jpg",
+    "posted_date": "August 7, 2023",
+    "reading_time": "15 minutes",
+    "hashtags": ["QuantumPhysics", "Cupcakes", "Baking"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/vzpfrm3/flat-lay-desk-dark-concept-with-copy-space.jpg",
+    "title": "The Art of Origami in Space",
+    "author": "Astronaut Mia Starfolder",
+    "author_image": "https://i.ibb.co/GTzqwTh/stylish-woman-reading-book.jpg",
+    "posted_date": "October 30, 2023",
+    "reading_time": "7 minutes",
+    "hashtags": ["Origami", "SpaceArt", "Astronauts"]
+  }
+]
