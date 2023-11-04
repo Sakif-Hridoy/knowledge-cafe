@@ -1,0 +1,53 @@
+[
+    {
+      "ID": "12345",
+      "Cover": "https://i.ibb.co/Hnp6Hg4/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+      "Title": "Mystery of the Hidden Treasure",
+      "Author": "Jane Doe",
+      "Author_img": "https://i.ibb.co/dcs7QVf/inspired-creative-woman-writing-down-ideas.jpg",
+      "Posted_Date": "2023-04-15",
+      "Reading_Time": 12,
+      "Hashtags": ["#mystery", "#treasurehunt", "#adventure"]
+    },
+    {
+      "ID": "67890",
+      "Cover": "https://i.ibb.co/W0BXVWP/top-view-desk-concept-with-coffee.jpg",
+      "Title": "Sci-Fi Chronicles",
+      "Author": "John Smith",
+      "Author_img": "https://i.ibb.co/drLp5Km/man-working-from-home-remote-office-concept.jpg",
+      "Posted_Date": "2023-03-22",
+      "Reading_Time": 45,
+      "Hashtags": ["#scifi", "#space", "#future"]
+    },
+    {
+      "ID": "13579",
+      "Cover": "https://i.ibb.co/Csd5mPC/4293200.jpg",
+      "Title": "Cooking Delights",
+      "Author": "Emily Brown",
+      "Author_img": "https://i.ibb.co/D1SYKsd/positive-female-student-glasses-doing-homework.jpg",
+      "Posted_Date": "2023-05-10",
+      "Reading_Time": 20,
+      "Hashtags": ["#cooking", "#recipes", "#foodie"]
+    },
+    {
+      "ID": "24680",
+      "Cover": "https://i.ibb.co/BsqKJHS/8828328.jpg",
+      "Title": "Historical Journeys",
+      "Author": "David Johnson",
+      "Author_img": "https://i.ibb.co/84XMTRG/side-view-business-man-writing-agenda.jpg",
+      "Posted_Date": "2023-02-07",
+      "Reading_Time": 18,
+      "Hashtags": ["#history", "#exploration", "#adventure"]
+    },
+    {
+      "ID": "98765",
+      "Cover": "https://i.ibb.co/vzpfrm3/flat-lay-desk-dark-concept-with-copy-space.jpg",
+      "Title": "Fantasy Quest",
+      "Author": "Sarah White",
+      "Author_img": "https://i.ibb.co/GTzqwTh/stylish-woman-reading-book.jpg",
+      "Posted_Date": "2023-06-18",
+      "Reading_Time": 8,
+      "Hashtags": ["#fantasy", "#magic", "#quests"]
+    }
+  ]
+  
