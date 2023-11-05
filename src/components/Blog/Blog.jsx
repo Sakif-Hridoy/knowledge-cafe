@@ -5,6 +5,7 @@ const Blog = ({ blog, handleAddBookmark,handleMarkAsRead }) => {
   // console.log(blog)
 
   const {
+    id,
     title,
     cover,
     author,
@@ -34,13 +35,13 @@ const Blog = ({ blog, handleAddBookmark,handleMarkAsRead }) => {
       </div>
       <h2 className="text-4xl">{title}</h2>
       <p>
-        {hashtags.map((hash) => (
-          <span key={blog.id}>
+        {hashtags.map((hash,idx) => (
+          <span key={idx}>
             <a href="">#{hash}</a>
           </span>
         ))}
       </p>
-      <button onClick={()=>handleMarkAsRead(reading_time)} className="text-purple-600 font-bold underline">Mark As Read</button>
+      <button onClick={()=>handleMarkAsRead(id,reading_time)} className="text-purple-600 font-bold underline">Mark As Read</button>
     </div>
   );
 };
